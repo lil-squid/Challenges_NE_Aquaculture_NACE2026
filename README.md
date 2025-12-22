@@ -1,1 +1,1 @@
-Results to come!
+Stay tuned, results to come!
