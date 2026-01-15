@@ -1,2 +1,2 @@
-![Total Participants by State](Challenges_NE_Aquaculture_NACE2026/Figures/Total Participants by State.png)
+![Total Participants by State](Figures/Total Number of Participants by State.png)
 ## Stay tuned, results to come!
