@@ -5,6 +5,12 @@ Below are the results:
 
 ![Type of Participant by State](Figures/Type-of-Participant-by-State.png)
 
+## Most Common Challenges
 ![Type of Participant by State](Figures/most-common-challenges.png)
 
-## Stay tuned, more results to come!
+## Challenges by Sector
+![Type of Participant by State](Figures/challenges-by-sector.png)
+
+## Challenges by State
+![Type of Participant by State](Figures/challenges-by-state.png)
+
