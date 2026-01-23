@@ -5,4 +5,6 @@ Below are the results:
 
 ![Type of Participant by State](Figures/Type-of-Participant-by-State.png)
 
+![Type of Participant by State](Figures/most-common-challenges.png)
+
 ## Stay tuned, more results to come!
