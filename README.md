@@ -8,7 +8,9 @@ Below are the results:
 ## Most Common Challenges
 ![Type of Participant by State](Figures/most-common-challenges.png)
 
-![Type of Participant by State](Figures/challenges-by-sector.png)
+## Challenges by Sector
+![Type of Participant by State](Figures/challenges_by_sector.png)
 
+## Challenges by State
 ![Type of Participant by State](Figures/challenges_by_state.png)
 
