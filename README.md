@@ -10,5 +10,5 @@ Below are the results:
 
 ![Type of Participant by State](Figures/challenges-by-sector.png)
 
-![Type of Participant by State](Figures/challenges-by-state.png)
+![Type of Participant by State](Figures/challenges_by_state.png)
 
